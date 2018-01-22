@@ -1,1 +1,2 @@
-#pragma once
+//Stack.hpp
+constexpr int size = 10;
